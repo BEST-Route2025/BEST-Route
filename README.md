@@ -12,9 +12,9 @@
 
 ![alt text](https://github.com/BEST-Route2025/BEST-Route/blob/main/routing_performance_results_rouge.png?raw=true)
 
-## Figure 4: armoRM score distribution.
+## Figure 4: Proxy reward score (R_proxy) distribution.
 
-![alt text](https://github.com/BEST-Route2025/BEST-Route/blob/main/histogram_armoRM_scores.png?raw=true)
+![alt text](https://github.com/BEST-Route2025/BEST-Route/blob/main/histogram_proxy_reward_scores.png?raw=true)
 
 ## Figure 5: Routing performance results on the OOD dataset (MT-Bench).
 
